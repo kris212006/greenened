@@ -1,0 +1,569 @@
+lang="ru"
+/https://www.le-park.com/services/landscape-architecture/?yclid=14769890881626701823/для услуг
+
+position: relative;
+background: linear-gradient(180deg, rgb(42, 42, 42) 0%, rgba(53, 53, 53, 0.623) 100%);
+
+
+background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    height: 200px;
+    background: linear-gradient(180deg, rgb(46, 46, 45) 0%, rgba(54, 54, 54, 0.623) 100%);
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+
+    <div class="header-right__contact-icon default_cursor_cs">
+				<a href="tel:+74993978202" class="icons header-whatsapp default_pointer_cs"></a>
+				<a href="tel:+74993978202" class="icons header-phone default_pointer_cs"></a>
+			</div>
+
+    .screen-section__area {
+
+        border: 1px solid black;
+
+        width: 550px;
+    height: 260px;
+    margin-bottom: 0px;
+    margin-top: 300px;
+    
+
+    <div class="  phone default_cursor_cs">
+    <div class="header-right__contact-icon default_cursor_cs">
+        <a href="tel:+74993978202" class="icons header-whatsapp default_pointer_cs"></a>
+        <a href="tel:+74993978202" class="icons header-phone default_pointer_cs"></a>
+    </div>
+    <div class="header-right__contact-content default_cursor_cs">
+        <a class="phone default_pointer_cs" href="tel:+74993978202">+7(499)397-82-02</a>
+        <div class="mode default_cursor_cs">Пн-Сб 10-00 до 20-00</div>
+
+
+        position: absolute;
+
+        :root {
+    --wp--preset--aspect-ratio--square: 1;
+    --wp--preset--aspect-ratio--4-3: 4 / 3;
+    --wp--preset--aspect-ratio--3-4: 3 / 4;
+    --wp--preset--aspect-ratio--3-2: 3 / 2;
+    --wp--preset--aspect-ratio--2-3: 2 / 3;
+    --wp--preset--aspect-ratio--16-9: 16 / 9;
+    --wp--preset--aspect-ratio--9-16: 9 / 16;
+    --wp--preset--color--black: #000000;
+    --wp--preset--color--cyan-bluish-gray: #abb8c3;
+    --wp--preset--color--white: #ffffff;
+    --wp--preset--color--pale-pink: #f78da7;
+    --wp--preset--color--vivid-red: #cf2e2e;
+    --wp--preset--color--luminous-vivid-orange: #ff6900;
+    --wp--preset--color--luminous-vivid-amber: #fcb900;
+    --wp--preset--color--light-green-cyan: #7bdcb5;
+    --wp--preset--color--vivid-green-cyan: #00d084;
+    --wp--preset--color--pale-cyan-blue: #8ed1fc;
+    --wp--preset--color--vivid-cyan-blue: #0693e3;
+    --wp--preset--color--vivid-purple: #9b51e0;
+    --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+    --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+    --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+    --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+    --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+    --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+    --wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+    --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+    --wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+    --wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+    --wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+    --wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+    --wp--preset--font-size--small: 13px;
+    --wp--preset--font-size--medium: 20px;
+    --wp--preset--font-size--large: 36px;
+    --wp--preset--font-size--x-large: 42px;
+    --wp--preset--spacing--20: 0.44rem;
+    --wp--preset--spacing--30: 0.67rem;
+    --wp--preset--spacing--40: 1rem;
+    --wp--preset--spacing--50: 1.5rem;
+    --wp--preset--spacing--60: 2.25rem;
+    --wp--preset--spacing--70: 3.38rem;
+    --wp--preset--spacing--80: 5.06rem;
+    --wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
+    --wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
+    --wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
+    --wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
+    --wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
+}
+
+@media (max-width: 1199px) {
+    .top-footer__row {
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+}
+
+padding: 0 15px;
+    border-bottom: 1px solid transparent;
+   
+    -webkit-transition: all .3s linear 0s;
+    transition: all .3s linear 0s;
+
+
+    <div>
+    <p class="privet">Ландшафтный дизайн Green Eden</p>
+</div>
+
+<p>Работаем по Москве и Московской области.</p>
+
+<p>Свяжитесь с нами по телефону +7 (499)397-82-02.</p>
+
+<div class="top-footer__row default_cursor_cs">
+
+<div class="footer-info__wrap">
+    <div class="header-info default_cursor_cs">
+                                    <div class="header-info__item">
+                <div class="header-info__wrap default_cursor_cs">
+                    <div class="header-info__icon default_cursor_cs">
+                        <svg class="i-svg icon-tel default_cursor_cs">
+                            <use xlink:href="#icon-tel" class="default_cursor_cs"></use>
+                        </svg>
+                    </div>
+                    <div class="header-info__area default_cursor_cs">
+                                                                    <a href="tel:+74993978202" class="default_pointer_cs">
+                                +7(985)-050-98-81                                            </a> <br>
+                                                                <span class="default_cursor_cs">Пн-Сб 10-00 до 20-00</span>
+                    </div>
+                </div>
+            </div>
+                                                            <div class="header-info__item default_cursor_cs">
+                <div class="header-info__wrap default_cursor_cs">
+                    <div class="header-info__icon default_cursor_cs">
+                        <svg class="i-svg icon-point default_cursor_cs">
+                            <use xlink:href="#icon-point"></use>
+                        </svg>
+                    </div>
+                    <div class="header-info__area default_cursor_cs">
+                        Москва, ул. Дорогобужская <br>
+дом 14, стр. 4, офис 400                                    </div>
+                </div>
+            </div>
+                                                            <div class="header-info__item">
+                <div class="header-info__wrap default_cursor_cs">
+                    <div class="header-info__icon">
+                        <svg class="i-svg icon-envelope">
+                            <use xlink:href="#icon-envelope"></use>
+                        </svg>
+                    </div>
+                    <div class="header-info__area">
+                        <a href="mailto:kristinalosenkova51@gmail.com">
+                            kristinalosenkova51@gmail.com                                       </a>
+                    </div>
+                </div>
+            </div>
+        
+    </div><!-- end header-info -->
+</div><!-- end footer-info__wrap -->
+
+<div class="footer-links">
+                    </div>
+                    <div class="subscribe default_cursor_cs">
+        <div class="subscribe__title default_cursor_cs">
+            Грузим интересные <a href="/blog/" class="reviews-carousel__name">статьи</a> и обзоры                        </div>
+        <form class="subscribe-form" id="send_email">
+            <div class="subscribe__row">
+                <div class="subscribe__input">
+                    <input type="text" name="user_email" placeholder="Введите свой E-mail">
+                </div>
+                <div class="subscribe__submit">
+                    <button class="btn btn_submit default_pointer_cs" id="send_email_btn">
+                        <span class="btn__arrow">
+                            <span class="btn__name default_pointer_cs">
+                                Отправить                                            </span>
+                            <svg class="i-svg icon-long-right-arr"><use xlink:href="#icon-long-right-arr"></use></svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<p class="text1">
+
+
+    <div class="row preimushestva_box default_cursor_cs">
+        <p class="col-md-1-5 preimushestva default_cursor_cs"><img src="/images/preimushestva_icon_1.png" alt="опыт 25 лет" class="default_cursor_cs"> <span class="title default_cursor_cs">Опыт 27 лет</span> <span class="desc default_cursor_cs">Выполняем ландшафтное проектирование и благоустройство с 1997 года</span></p>
+        <p class="col-md-1-5 preimushestva default_cursor_cs"><img src="/images/preimushestva_icon_2.png" alt="проект бесплатно" class="default_cursor_cs"> <span class="title default_cursor_cs">Проект - бесплатно* !</span> <span class="desc default_cursor_cs">При заказе у нас комплекса работ по благоустройству</span></p>
+        <p class="col-md-1-5 preimushestva default_cursor_cs"><img src="/images/preimushestva_icon_3.png" alt="личный менеджер проекта" class="default_cursor_cs"><span class="title default_cursor_cs">Всегда на связи</span> <span class="desc default_cursor_cs">Персональный менеджер доступен 24/7, ведем видеострим с объекта</span></p>
+        <p class="col-md-1-5 preimushestva default_cursor_cs"><img src="/images/preimushestva_icon_4.png" alt="растения из европы" class="default_cursor_cs"> <span class="title default_cursor_cs">Растения От и До</span> <span class="desc default_cursor_cs">Лично отбираем саженцы в лучших питомниках Европы и России</span></p>
+        <p class="col-md-1-5 preimushestva default_cursor_cs"><img src="/images/preimushestva_icon_5.png" alt="функции генподрядчика" class="default_cursor_cs"> <span class="title default_cursor_cs"> Генподрядчик</span> <span class="desc default_cursor_cs">Координируем работу смежных организаций</span></p>
+        </div>
+
+        <p><img src="img/gallery1.jpg" width="120" height="180" align="middle" /> 
+            Очень симпатичная пчёлка</p>
+
+
+            .icons.header-whatsapp {
+                background-image: url(../img/icons/icon-header-whatsapp.png);
+            }
+
+
+            Наши работы олицетворяют вдохновение и творчество мастеров, наши сады отличаются особой гармонией и красотой.
+
+
+            <p>ландшафтный дизайн под ключ
+                При разработке проектов ландшафтного дизайна, мы тщательно анализируем существующую ситуацию и стремимся максимально учесть все пожелания заказчика, какими бы невероятными они не  оказались.
+                
+                Проект содержит не только всю необходимую информацию об объемах работ по благоустройству, но и подробно описывает все технологии их выполнения. Все используемые материалы имеют точное описание, однозначно определяющие их качество и параметры.
+                
+                “
+                
+                мы не рисуем "веселые картинки" и не витаем в облаках. Мы точно знаем, что и как будем строить. Все, что Заказчик согласовал в проекте - будет неукоснительно выполнено!
+                Если же, для изготовления каменного цветка придется найти Данилу-мастера, это сделает "Новая Усадьба", которая останется для своего заказчика единственным подрядчиком.
+                
+                Обычно ландшафтный дизайн предполагает выполнение работ на всей территории участка. Поэтому, если на объекте работают смежники, мы готовы выполнять функции генподрядчика. Это не только удобно для Заказчика, но и помогает максимально быстро решать вопросы возможных нестыковок в смежных областях строительства.</p>
+
+                <div class="col-md-1-5 phone default_cursor_cs">
+                    <span class="big default_cursor_cs">
+                        <a class="awhite default_pointer_cs" href="tel:8 985 050 98 81">✆&nbsp;8 985 050 98 81</a></span>
+                        <a class="awhite" href="tel:88001006579">
+                            <span class="small"></span></a>
+                            <a class="awhite default_pointer_cs" href="mailto:kristinalosenkova51@gmail.com">✉&nbsp;kristinalosenkova51@gmail.com</a>
+                        </div>
+
+                        .header-right__contact .icons {
+                            width: 30px;
+                            height: 30px;
+                            margin-top: 100px;
+                        }
+                        
+                        .header-right__contact a {
+                            color: #000;
+                            text-decoration: none;
+                            white-space: nowrap;
+                        }
+                        .icons {
+                            display: inline-block;
+                            background-repeat: no-repeat;
+                            background-size: contain;
+                            background-position: center;
+                        }
+                        
+                        .header-right__contact {
+                            background: rgba(255, 255, 255, 0.70);
+                            padding: 15px;
+                            font-family: Gilroy;
+                            font-size: 15px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 18.4px;
+                            color: #000;
+                            max-width: 314px;
+                            display: flex;
+                            align-items: center;
+                            flex-wrap: nowrap;
+                            flex-direction: row;
+                            margin: 0 5px;
+                        }
+
+
+                        <div class="row blackblog default_cursor_cs">
+                            <div class="col-md-12 default_cursor_cs">
+                            <h2 class="center up default_cursor_cs">ландшафтный дизайн под ключ</h2>
+                            <p class="default_cursor_cs">При разработке проектов ландшафтного дизайна, мы тщательно анализируем существующую ситуацию и стремимся максимально учесть все пожелания заказчика, какими бы невероятными они не оказались.</p>
+                            <p class="default_cursor_cs">Проект содержит не только всю необходимую информацию об объемах работ по благоустройству, но и подробно описывает все технологии их выполнения. Все используемые материалы имеют точное описание, однозначно определяющие их качество и параметры.</p>
+                            </div>
+                            <div class="col-md-1 font600 hide-on-mobile" style="display: block; margin: -40px -40px 0 0;">
+                            <p>“</p>
+                            </div>
+                            <div class="col-md-11 font150 default_cursor_cs">мы не рисуем "веселые картинки" и не витаем в облаках. Мы точно знаем, что и как будем строить. Все, что Заказчик согласовал в проекте - будет неукоснительно выполнено!</div>
+                            <div class="col-md-12 default_cursor_cs">
+                            <p class="default_cursor_cs">Если же, для изготовления каменного цветка придется найти Данилу-мастера, это сделает "Новая Усадьба", которая останется для своего заказчика единственным подрядчиком.</p>
+                            <p class="default_cursor_cs">Обычно ландшафтный дизайн предполагает выполнение работ на всей территории участка. Поэтому, если на объекте работают смежники, мы готовы выполнять функции генподрядчика. Это не только удобно для Заказчика, но и помогает максимально быстро решать вопросы возможных нестыковок в смежных областях строительства.</p>
+                            </div>
+                            </div>
+
+                            .modal {
+                                display: none;
+                                /* По умолчанию скрыто */
+                                position: fixed;
+                                /* Фиксированное положение */
+                                z-index: 1;
+                                /* Верхний уровень */
+                                left: 0;
+                                top: 0;
+                                width: 100%;
+                                /* Полная ширина */
+                                height: 100%;
+                                /* Полная высота */
+                                overflow: auto;
+                                /* Включить прокрутку, если необходимо */
+                                background-color: rgba(0, 0, 0, 0.9);
+                                /* Черный цвет с прозрачностью */
+                            }
+                            
+                            .modal-content {
+                                margin: auto;
+                                display: block;
+                                width: 30%;
+                                max-width: 700px;
+                            }
+                            
+                            .modal-content img {
+                                width: 100%;
+                                height: auto;
+                            }
+                            
+                            /* Стили для изображения */
+                            .img1 {
+                                border-radius: 5px;
+                                cursor: pointer;
+                                transition: 0.3s;
+                                width: 100%;
+                            }
+                            
+                            img:hover {
+                                opacity: 0.7;
+                            }
+                            
+                            .images {
+                                width: 450px;
+                                display: flex;
+                            }
+                            <div  class="images raboti" >
+                                <div style="margin-top: 80px; ">
+                                <img  src="img/gallery1.jpg" alt="Ландшафтный дизайн 1" onclick="displayModal(this);">
+                                <img src="img/gallery2.jpg" alt="Ландшафтный дизайн 2">
+                                <img src="img/gallery3.jpg" alt="Ландшафтный дизайн 3" onclick="displayModal(this);">
+                                <img src="img/gallery4.jpg" alt="Ландшафтный дизайн 4" onclick="displayModal(this);">
+                                <img src="img/gallery5.jpg" alt="Ландшафтный дизайн 5" onclick="displayModal(this);">
+                                <img src="img/gallery6.jpg" alt="Ландшафтный дизайн 6" onclick="displayModal(this);">
+                                <img src="img/gallery7.jpg" alt="Ландшафтный дизайн 7" onclick="displayModal(this);">
+                                <img src="img/gallery8.jpg" alt="Ландшафтный дизайн 8" onclick="displayModal(this);">
+                                <img src="img/gallery9.jpg" alt="Ландшафтный дизайн 9" onclick="displayModal(this);">
+                                </div>
+                            </div>
+                    </div>
+                         <!-- Модальное окно -->
+                    <div id="modal" class="modal" onclick="hideModal();">
+                        <span class="close">&times;</span>
+                        <div class="modal-content">
+                          <img id="modal-image">
+                        </div>
+                      </div>
+                      <script>
+                        // Получаем элементы модального окна и изображения
+                        const modal = document.getElementById("modal");
+                        const modalImage = document.getElementById("modal-image");
+                    
+                        // Отображаем модальное окно и устанавливаем источник изображения
+                        function displayModal(img)
+                        {
+                            modal.style.display = "block";
+                            modalImage.src = img.src;
+                        }
+                    
+                        // Скрываем содержимое модального окна, если пользователь кликнул вне его
+                        function hideModal()
+                        {  
+                            if (event.target == modal) {
+                                modal.style.display = "none";
+                            }
+                        }
+                    </script>
+  
+  
+
+  <div class="testimonial-container" style="margin-top: 50px;">
+    <div class="testimonial active" style="font-size: 25px;">
+        <p><strong>Анна и Григорий Трубины
+        </strong></p>
+        <p>Мы обратились в Green Eden для создания сада мечты на нашем дачном участке, и они превзошли все наши ожидания! С самого начала команда проявила высокий уровень профессионализма. Дизайнер внимательно выслушал наши пожелания и предложил несколько креативных идей, которые идеально вписались в наш ландшафт. Работы были выполнены в срок, а результат просто потрясающий! Наш сад стал настоящим оазисом, где мы проводим время с семьей и друзьями. Рекомендуем Green Eden всем, кто хочет преобразить свой участок!</p>
+    </div>
+    <div class="testimonial" style="font-size: 25px;">
+        <p><strong>Филипп Зорев</strong></p>
+        <p>Я работал с Green Eden над проектом озеленения своего загородного дома, и могу сказать, что это была одна из лучших решений в моей жизни. Команда показала себя настоящими профессионалами — от первого консультирования до завершения работ. Они использовали только качественные материалы и растения, которые идеально подходят для нашего климата. Особенно хочу отметить их внимание к деталям и индивидуальный подход. Теперь у нас есть красивый и ухоженный сад, который радует глаз круглый год. Спасибо вам за вашу работу!</p>
+    </div>
+    <div class="testimonial" style="font-size: 25px;">
+        <p><strong>Алекса Браславская</strong></p>
+        <p>Green Eden — это настоящая находка для тех, кто хочет создать уникальный ландшафтный дизайн. Я обратилась к ним с идеей создать небольшой пруд и цветник на своем участке. Ребята не только реализовали мои идеи, но и предложили множество своих, которые сделали наш сад еще более привлекательным. Они работали быстро и аккуратно, а результат превзошел все ожидания. Теперь я с удовольствием приглашаю друзей на пикники в нашем новом саду. Огромное спасибо команде Green Eden!</p>
+    </div>
+    <div class="testimonial" style="font-size: 25px;">
+        <p><strong>Маргарита и Станислав Абрамовы</strong></p>
+        <p>Мы искали компанию для комплексного благоустройства нашего двора и наткнулись на Green Eden. Это было лучшее решение! С первого общения мы поняли, что имеем дело с профессионалами своего дела. Они предложили нам несколько вариантов дизайна, учитывая наши пожелания и бюджет. Работы были выполнены качественно и в срок. Мы остались очень довольны результатом: теперь у нас есть не только красиво оформленный двор, но и функциональные зоны для отдыха и игр с детьми. Обязательно будем рекомендовать Green Eden своим друзьям!</p>
+    </div>
+    <div class="testimonial" style="font-size: 25px;">
+        <p><strong>Светлана Братчикова</strong></p>
+        <p>Я долго искала компанию, которая могла бы помочь мне с оформлением моего небольшого участка в городе. Green Eden стал для меня настоящим спасением! Команда была очень отзывчивой и внимательной к моим пожеланиям. Они предложили множество интересных решений, включая вертикальное озеленение и использование многоуровневых клумб. Работа была выполнена быстро и качественно, а результат превзошел все ожидания! Мой участок теперь выглядит стильно и современно. Я очень довольна сотрудничеством с Green Eden и обязательно буду обращаться к ним снова!</p>
+    </div>
+
+    <div>
+        <span class="arrow" id="prev">&#9664;</span>
+        <span class="arrow" id="next">&#9654;</span>
+    </div>
+</div>
+
+<script>
+    const testimonials = document.querySelectorAll('.testimonial');
+    let currentIndex = 0;
+
+    function showTestimonial(index) {
+        testimonials.forEach((testimonial, i) => {
+            testimonial.classList.remove('active');
+            if (i === index) {
+                testimonial.classList.add('active');
+            }
+        });
+    }
+
+    document.getElementById('next').addEventListener('click', () => {
+        currentIndex = (currentIndex + 1) % testimonials.length;
+        showTestimonial(currentIndex);
+    });
+
+    document.getElementById('prev').addEventListener('click', () => {
+        currentIndex = (currentIndex - 1 + testimonials.length) % testimonials.length;
+        showTestimonial(currentIndex);
+    });
+
+    // Показать первый отзыв при загрузке страницы
+    showTestimonial(currentIndex);
+</script>
+
+<div class="catalog-goods default_cursor_cs">
+    <div class="goods element-animation element-show default_cursor_cs">
+        <a href="./wide-maple-board.html">
+            <div class="goods-photo default_pointer_cs">
+                <img src="./img/wide.svg" alt="" class="img default_pointer_cs">
+            </div>
+            <div class="goods-label">
+                <h2 class="default_pointer_cs">Широкая кленова доска</h2>
+            </div>
+            <div class="goods-price">
+                <p>1 358.00 ₽</p>
+            </div>
+        </a>
+    </div>
+     <div class="goods element-animation element-show default_cursor_cs">
+        <a href="./wide-maple-board.html">
+            <div class="goods-photo default_pointer_cs">
+                <img src="./img/wide.svg" alt="" class="img default_pointer_cs">
+            </div>
+            <div class="goods-label">
+                <h2>Широкая кленова доска</h2>
+            </div>
+            <div class="goods-price">
+                <p>1 358.00 ₽</p>
+            </div>
+        </a>
+    </div>
+     <div class="goods element-animation element-show default_cursor_cs">
+        <a href="./wide-maple-board.html">
+            <div class="goods-photo default_pointer_cs">
+                <img src="./img/wide.svg" alt="" class="img default_pointer_cs">
+            </div>
+            <div class="goods-label">
+                <h2>Широкая кленова доска</h2>
+            </div>
+            <div class="goods-price">
+                <p>1 358.00 ₽</p>
+            </div>
+        </a>
+    </div>
+     <div class="goods element-animation element-show default_cursor_cs">
+        <a href="./wide-maple-board.html">
+            <div class="goods-photo">
+                <img src="./img/wide.svg" alt="" class="img default_pointer_cs">
+            </div>
+            <div class="goods-label">
+                <h2>Широкая кленова доска</h2>
+            </div>
+            <div class="goods-price">
+                <p>1 358.00 ₽</p>
+            </div>
+        </a>
+    </div>
+     <div class="goods element-animation default_cursor_cs">
+        <a href="./wide-maple-board.html">
+            <div class="goods-photo">
+                <img src="./img/wide.svg" alt="" class="img default_pointer_cs">
+            </div>
+            <div class="goods-label">
+                <h2>Широкая кленова доска</h2>
+            </div>
+            <div class="goods-price">
+                <p>1 358.00 ₽</p>
+            </div>
+        </a>
+    </div>
+     <div class="goods element-animation">
+        <a href="./wide-maple-board.html">
+            <div class="goods-photo">
+                <img src="./img/wide.svg" alt="" class="img">
+            </div>
+            <div class="goods-label">
+                <h2>Широкая кленова доска</h2>
+            </div>
+            <div class="goods-price">
+                <p>1 358.00 ₽</p>
+            </div>
+        </a>
+    </div>
+    
+</div>
+
+.catalog-goods {
+    display: flex;
+    row-gap: 30px;
+    column-gap: 50px;
+    margin-top: 30px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    column-count: 3;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: normal;
+    color: #333232;
+    background-color: #ffffff;
+}
+body {
+    line-height: 1;
+}
+html, button, input, select, textarea {
+    color: #222;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
